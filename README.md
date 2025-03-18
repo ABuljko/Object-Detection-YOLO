@@ -1,1 +1,1 @@
-# Object-Detection-JOLO
+# Object-Detection-YOLO
